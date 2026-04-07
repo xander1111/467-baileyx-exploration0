@@ -15,7 +15,7 @@ export default function Home() {
         style={{ height: "auto" }}
         priority
       />
-      <h3 className="text-4xl font-bold mt-4">Welcome to OSU SE467</h3>
+      <h3 className="text-4xl font-bold mt-4">Hello from baileyx!</h3>
     </div>
   );
 }
