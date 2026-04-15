@@ -4,7 +4,7 @@ Resources:
   MyBucket:
     Type: 'AWS::S3::Bucket'
     Properties:
-      BucketName: 467-rosenzje-exploration2-2025-2
+      BucketName: 467-baileyx-exploration2
       PublicAccessBlockConfiguration:
         BlockPublicAcls: false
         BlockPublicPolicy: false
